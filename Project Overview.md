@@ -5,8 +5,11 @@ CoLocate is an innovative project aimed at enhancing office collaboration throug
 ## Features
 ### 1. Event Generation Script
 **Random Event Generation:** Create random events within arbitrary time blocks for an arbitrary number of people.
+
 **Event Types:** Generate events with types randomly selected from a predefined list (e.g., coding, stand-up, lunch and learn, etc.).
+
 **Collaborative vs. Non-Collaborative:** Distinguish between collaborative and non-collaborative events, with collaborative events having other attendees and non-collaborative events typically having no other attendees.
+
 ### 2. ML-Based Recommendation Script
 **Intelligent Event Comparison:** Use machine learning to compare and analyze events to provide recommendations.
 **Recommendations:**
