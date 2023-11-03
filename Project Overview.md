@@ -9,6 +9,7 @@ CoLocate is a test project aimed at increasing intentionality and information in
     TO DO: 
         Build API access to Calendars.
         Build event generator (ics on python, default events can be defined using a CSV, functionality to adjust these defaults in individual cases)
+        Can they define new events? Would be as simple as picking parameters from a list in their own configuration
 
 **Collaborative vs. Non-Collaborative:** Distinguish between collaborative and non-collaborative events, with collaborative events having other attendees and non-collaborative events typically having no other attendees. Events can also be tagged as being open to drop-ins and people interested in learning more.
 
@@ -17,8 +18,7 @@ CoLocate is a test project aimed at increasing intentionality and information in
 
     TO DO:
         Build room definitions, similar to events
-        MVP, grid with each number defining the kind of space. Assume smallest room is of size x, all rooms are linear multiples of that size. Size is selected, small = ~5 rooms, medium = ~10 rooms, large = ~15 rooms. If too much scope, could have discrete set layouts instead prepared ahead of time. 
-        https://gist.github.com/tripl3dogdare/550a2f1addda2d0d866d12f1b80db790
+        Size is selected, small = ~5 rooms, medium = ~10 rooms, large = ~15 rooms. Discrete set layouts prepared ahead of time, 3 of each and is selected randomly. 
         
 ### 3. ML-Based Recommendation Script
 **Intelligent Event Comparison:** Use machine learning to compare and analyze events to provide recommendations on when to colocate and what office space to use. Additionally provide recommendations on when it would make sense to shift schedules in order to stack colocated events on a single day, so it is used more effectively.
