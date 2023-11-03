@@ -4,20 +4,18 @@ CoLocate is an innovative project aimed at enhancing office collaboration throug
 
 ## Features
 ### 1. Event Generation Script
-Random Event Generation: Create random events within arbitrary time blocks that do not overlap, catering to an arbitrary number of people.
-Event Types: Generate events with types randomly selected from a predefined list (e.g., coding, stand-up, lunch and learn, etc.).
-Collaborative vs. Non-Collaborative: Distinguish between collaborative and non-collaborative events, with collaborative events having other attendees and non-collaborative events typically having no other attendees.
-Team Dynamics: Collaborative events tend to be scheduled between people on the same team, enhancing team dynamics.
+**Random Event Generation:** Create random events within arbitrary time blocks for an arbitrary number of people.
+**Event Types:** Generate events with types randomly selected from a predefined list (e.g., coding, stand-up, lunch and learn, etc.).
+**Collaborative vs. Non-Collaborative:** Distinguish between collaborative and non-collaborative events, with collaborative events having other attendees and non-collaborative events typically having no other attendees.
 ### 2. ML-Based Recommendation Script
-Intelligent Event Comparison: Use machine learning to compare and analyze events to provide recommendations.
-Recommendations:
+**Intelligent Event Comparison:** Use machine learning to compare and analyze events to provide recommendations.
+**Recommendations:**
 Suggest days suitable for colocating with team members.
-Identify opportunities to join events hosted by other teams.
-Offer insights into optimal scheduling for enhanced collaboration.
+Identify opportunities to merge events with other teams.
+Offer optimal scheduling for enhanced collaboration.
 ### 3. User-Friendly Front End
 Interactive Interface: Develop a front end that allows users to utilize the event generation and recommendation scripts.
-Parameter Adjustment: Enable users to adjust parameters for event generation and analysis.
-Customization: Provide options for users to tailor the tool to their specific needs.
+Parameter Adjustment: Enable users to adjust parameters for event generation and analysis, including rate at which meetings occur interteam and percentage of workday occupied by meetings.
 
 ## Development Steps
 To bring the CoLocate project to life, the following steps will be taken:
