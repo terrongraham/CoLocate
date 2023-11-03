@@ -8,7 +8,7 @@ CoLocate is an innovative project aimed at enhancing office collaboration throug
 
 **Event Types:** Generate events with types randomly selected from a predefined list (e.g., coding, stand-up, lunch and learn, etc.).
 
-**Collaborative vs. Non-Collaborative:** Distinguish between collaborative and non-collaborative events, with collaborative events having other attendees and non-collaborative events typically having no other attendees.
+**Collaborative vs. Non-Collaborative:** Distinguish between collaborative and non-collaborative events, with collaborative events having other attendees and non-collaborative events typically having no other attendees. Events can also be tagged as being open to drop-ins and people interested in learning more.
 
 ### 2. ML-Based Recommendation Script
 **Intelligent Event Comparison:** Use machine learning to compare and analyze events to provide recommendations.
