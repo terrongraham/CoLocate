@@ -9,6 +9,7 @@ CoLocate is a test project aimed at increasing intentionality and information in
     TO DO: 
         Build API access to Calendars.
         Build event generator (ics on python, default events can be defined using a CSV, functionality to adjust these defaults in individual cases)
+        https://github.com/zylai/ical-fake-meetings-generator
         Can they define new events? Would be as simple as picking parameters from a list in their own configuration
 
 **Collaborative vs. Non-Collaborative:** Distinguish between collaborative and non-collaborative events, with collaborative events having other attendees and non-collaborative events typically having no other attendees. Events can also be tagged as being open to drop-ins and people interested in learning more.
