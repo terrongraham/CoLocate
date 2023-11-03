@@ -14,7 +14,7 @@ CoLocate is an innovative project aimed at enhancing office collaboration throug
 **Random Office Generation:** Create offices of varying sizes that are able to support an arbitrary amount of people. 
 
 ### 3. ML-Based Recommendation Script
-**Intelligent Event Comparison:** Use machine learning to compare and analyze events to provide recommendations.
+**Intelligent Event Comparison:** Use machine learning to compare and analyze events to provide recommendations on when to colocate and what office space to use. Additionally provide recommendations on when it would make sense to shift schedules in order to stack colocated events on a single day, so it is used more effectively.
 
 **Recommendations:**
 Suggest days suitable for colocating with team members.
