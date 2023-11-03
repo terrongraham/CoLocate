@@ -10,7 +10,10 @@ CoLocate is an innovative project aimed at enhancing office collaboration throug
 
 **Collaborative vs. Non-Collaborative:** Distinguish between collaborative and non-collaborative events, with collaborative events having other attendees and non-collaborative events typically having no other attendees. Events can also be tagged as being open to drop-ins and people interested in learning more.
 
-### 2. ML-Based Recommendation Script
+### 2. Office Generation Script
+**Random Office Generation:** Create offices of varying sizes that are able to support an arbitrary amount of people. 
+
+### 3. ML-Based Recommendation Script
 **Intelligent Event Comparison:** Use machine learning to compare and analyze events to provide recommendations.
 
 **Recommendations:**
@@ -18,7 +21,7 @@ Suggest days suitable for colocating with team members.
 Identify opportunities to merge events with other teams.
 Offer optimal scheduling for enhanced collaboration.
 
-### 3. User-Friendly Front End
+### 4. User-Friendly Front End
 Interactive Interface: Develop a front end that allows users to utilize the event generation and recommendation scripts.
 Parameter Adjustment: Enable users to adjust parameters for event generation and analysis, including rate at which meetings occur interteam and percentage of workday occupied by meetings.
 
