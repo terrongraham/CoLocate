@@ -17,8 +17,8 @@ CoLocate is a test project aimed at increasing intentionality and information in
 **Random Office Generation:** Create offices of varying sizes and containing varying sets of rooms that are able to support an arbitrary amount of people. 
 
     TO DO:
-        Build room definitions, similar to events
-        Size is selected, small = ~5 rooms, medium = ~10 rooms, large = ~15 rooms. Discrete set layouts prepared ahead of time, 3 of each and is selected randomly. 
+        Build room definitions, similar to events. Attendee amount dictates and technology dictate the rooms available for that use case. 
+        Size is selected, small = ~10 rooms, medium = ~15 rooms, large = ~25 rooms. Discrete set layouts prepared ahead of time, 3 of each and is selected randomly. 
         
 ### 3. ML-Based Recommendation Script
 **Intelligent Event Comparison:** Use machine learning to compare and analyze events to provide recommendations on when to colocate and what office space to use. Additionally provide recommendations on when it would make sense to shift schedules in order to stack colocated events on a single day, so it is used more effectively.
