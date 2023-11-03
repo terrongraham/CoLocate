@@ -3,7 +3,7 @@ CoLocate: Simplifying Office Collaboration
 
 CoLocate is a practical tool that uses machine learning to enhance office collaboration. It helps you find the best times to meet with colleagues and offers event recommendations tailored to your schedule.
 
-Key Features:
+**Key Features:**
 
 Calendar Comparison: CoLocate identifies when team members are available in the office for quick meetings.
 
