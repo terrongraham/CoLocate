@@ -1,8 +1,8 @@
-Event Name	Purpose	Collaborative	Attendees	Duration	Technology Required
-Keynote Presentation	To deliver a high-impact presentation to a large audience, often at a conference or major event, to inform, inspire, or educate	1	Large	2	Video conferencing tools, AV equipment
-Team Meetings	To discuss project progress, plan, and align team members.	1	Medium	1	Video conferencing tools
-Brainstorming Sessions	To generate creative ideas and solutions for a specific problem or project.	1	Medium	1	Video conferencing tools, whiteboard, collaborative software
-Workshops	To work intensively on specific project aspects, such as planning, design, or problem-solving.	1	Medium	4	Video conferencing tools, whiteboard, project management software, collaborative software
-Sprint Planning	To plan and prioritize tasks for an Agile development sprint.	1	Small	2	Video conferencing tools, project management software
-Group Problem Solving	To collaboratively address and solve complex problems or challenges.	1	Small	2	Video conferencing tools, whiteboard, collaborative software, project management software
-Individual Work Sessions	Focused, individual work on tasks or projects.	0	Individual	1	
+EventID	Event Name	Purpose	Collaborative	Attendees	Duration	Technology Required
+1	Keynote Presentation	To deliver a high-impact presentation to a large audience, often at a conference or major event, to inform, inspire, or educate	1	Large	2	Video conferencing tools, AV equipment
+2	Team Meetings	To discuss project progress, plan, and align team members.	1	Medium	1	Video conferencing tools
+3	Brainstorming Sessions	To generate creative ideas and solutions for a specific problem or project.	1	Medium	1	Video conferencing tools, whiteboard, collaborative software
+4	Workshops	To work intensively on specific project aspects, such as planning, design, or problem-solving.	1	Medium	4	Video conferencing tools, whiteboard, project management software, collaborative software
+5	Sprint Planning	To plan and prioritize tasks for an Agile development sprint.	1	Small	2	Video conferencing tools, project management software
+6	Group Problem Solving	To collaboratively address and solve complex problems or challenges.	1	Small	2	Video conferencing tools, whiteboard, collaborative software, project management software
+7	Individual Work Sessions	Focused, individual work on tasks or projects.	0	Individual	1	

@@ -1,0 +1,10 @@
+OfficeID	OfficeSize	Seats	ConferenceRooms	MeetingRooms	Boardrooms	Training Rooms	HuddleRooms	Auditorium
+1	Small	24	1	2	0	0	0	0
+2	Small	20	1	2	0	0	1	0
+3	Small	18	1	2	0	0	1	0
+4	Medium	46	1	3	1	1	0	0
+5	Medium	50	1	3	1	0	0	0
+6	Medium	56	1	4	1	1	1	1
+7	Large	88	1	5	1	1	0	1
+8	Large	92	1	5	1	1	2	1
+9	Large	95	1	5	1	1	2	1
