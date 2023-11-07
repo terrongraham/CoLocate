@@ -4,10 +4,9 @@ CoLocate is a test project aimed at increasing intentionality and information in
 
 ## Features
 ### 1. Event Generation Script
-**Random Event Generation:** Create a variety of events with different parameters (collaborative, expected number of attendees, expected duration, etc.) within arbitrary time blocks for an arbitrary number of people within an arbitrary number of teams. These events will be used as test data for a MVP. Alternatively, an organization's calendars could be imported using RESTful API calls to Google Calendar or Microsoft Outlook.
+**Random Event Generation:** Create a variety of events with different parameters (collaborative, expected number of attendees, expected duration, etc.) within arbitrary time blocks for an arbitrary number of people within an arbitrary number of teams. These events will be used as test data for a MVP. 
 
     TO DO: 
-        Build API access to Calendars.
         Build event generator (ics on python, default events can be defined using a CSV, functionality to adjust these defaults in individual cases)
         https://github.com/zylai/ical-fake-meetings-generator
         Can they define new events? Would be as simple as picking parameters from a list in their own configuration. Assume people are in 3 different hub cities, West coast, East coast, West Europe
